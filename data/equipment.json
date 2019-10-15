@@ -1,0 +1,214 @@
+{
+  "produt": [
+    {
+      "list": [
+        {
+          "img": "data/images/eq/eq22.jpg",
+          "des": "国美1.5匹变频空调",
+          "price": "￥1999"
+        },
+        {
+          "img": "data/images/eq/eq23.jpg",
+          "des": "美的535L对开门冰箱",
+          "price": "￥2489"
+        }
+      ]
+    },
+    {
+      "list": [
+        {
+          "img": "data/images/eq/eq24.jpg",
+          "des": "荣耀20 8+256G 幻夜黑",
+          "price": "￥2999"
+        },
+        {
+          "img": "data/images/eq/eq25.jpg",
+          "des": "佳能单反750D(18-55)",
+          "price": "￥5299"
+        }
+
+      ]
+    },
+    {
+      "list": [
+        {
+          "img": "data/images/eq/eq22.jpg",
+          "des": "国美1.5匹变频空调",
+          "price": "￥1999"
+        },
+        {
+          "img": "data/images/eq/eq23.jpg",
+          "des": "美的535L对开门冰箱",
+          "price": "￥2489"
+        }
+      ]
+    }
+  ],
+  "active":[
+	  {
+		 "limg":[
+			 
+				{
+				  "img": "data/images/eq/eq30.jpg"
+				} 
+			 
+		 ],
+		 "rimg":[
+				{
+				  "img": "data/images/eq/eq31.jpg"
+				}
+				
+		 ]
+	  }
+ 
+   
+],
+
+  "select": [
+    {
+      "img":"data/images/eq/eq34.jpg",
+      "des": "戴尔灵越INS 14轻薄本",
+      "price": "￥3999"
+    },
+    {
+      "img":"data/images/eq/eq35.jpg",
+      "des": "格力大1匹变频空调",
+      "price": "￥2799"
+    },
+    {
+      "img":"data/images/eq/eq36.jpg",
+      "des": "小米手环4NFC版",
+      "price": "￥219"
+    },
+    {
+      "img":"data/images/eq/eq37.jpg",
+      "des": "小米CC9e 6+64G蓝",
+      "price": "￥1299"
+    },
+    {
+      "img":"data/images/eq/eq38.jpg",
+      "des": "海尔5.5kg波轮洗衣机",
+      "price": "￥759"
+    },
+    {
+      "img":"data/images/eq/eq39.jpg",
+      "des": "海信65英寸4k智能电视",
+      "price": "￥2788"
+    }
+  ],
+  "band": [
+	  {
+		 "timg":[
+		   {
+		     "img":"data/images/eq/eq08.jpg"
+		   },
+		   {
+		     "img":"data/images/eq/eq07.jpg"
+		   }
+		 ],
+		 "bimg":[
+		   {
+		     "img":"data/images/eq/eq04.png"
+		   },
+		   {
+		     "img":"data/images/eq/eq06.jpg"
+		   },
+		   {
+		     "img":"data/images/eq/eq03.jpg"
+		   },
+		   {
+		     "img":"data/images/eq/eq02.jpg"
+		   },
+		   {
+		     "img":"data/images/eq/eq01.jpg"
+		   },
+		   {
+		     "img":"data/images/eq/eq05.jpg"
+		   }
+		 ] 
+		  
+	  }
+        
+    
+  ],
+  "like": [
+    {
+      "img":"data/images/eq/eq35.jpg",
+      "ziy": "自营",
+      "des": "国美1.5匹冷暖定频空调",
+      "txt": "wifi操控 电辅加热",
+      "price": "￥1699"
+
+    },
+    {
+      "img":"data/images/eq/eq43.jpg",
+      "ziy": "自营",
+      "des": "格力1匹冷暖定频空调",
+      "txt": "智能wifi 1Hz变频",
+      "price": "￥2799"
+
+    },
+    {
+      "img":"data/images/eq/eq44.jpg",
+      "ziy": "自营",
+      "des": "美的微波炉M1-211A",
+      "txt": "21L容量 转盘式加热旋转...",
+      "price": "￥309"
+
+    },
+    {
+      "img":"data/images/eq/eq45.jpg",
+      "ziy": "自营",
+      "des": "樱花燃气热水器JsQ",
+      "txt": "智能恒温 高抗风压",
+      "price": "￥1799"
+
+    },
+    {
+      "img":"data/images/eq/eq46.jpg",
+      "ziy": "自营",
+      "des": "美的226L三门冰箱",
+      "price": "￥1899"
+
+    },
+    {
+      "img":"data/images/eq/eq47.jpg",
+      "ziy": "自营",
+      "des": "海尔331L多门冰箱",
+      "price": "￥3699"
+
+    },
+    {
+      "img":"data/images/eq/eq35.jpg",
+      "ziy": "自营",
+      "des": "国美1.5匹冷暖定频空调",
+      "txt": "wifi操控 电辅加热",
+      "price": "￥1699"
+
+    },
+    {
+      "img":"data/images/eq/eq43.jpg",
+      "ziy": "自营",
+      "des": "格力1匹冷暖定频空调",
+      "txt": "智能wifi 1Hz变频",
+      "price": "￥2799"
+
+    },
+    {
+      "img":"data/images/eq/eq44.jpg",
+      "ziy": "自营",
+      "des": "美的微波炉M1-211A",
+      "txt": "21L容量 转盘式加热旋转...",
+      "price": "￥309"
+
+    },
+    {
+      "img":"data/images/eq/eq45.jpg",
+      "ziy": "自营",
+      "des": "樱花燃气热水器JsQ",
+      "txt": "智能恒温 高抗风压",
+      "price": "￥1799"
+
+    }
+  ]
+}

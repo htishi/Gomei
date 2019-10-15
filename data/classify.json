@@ -1,0 +1,282 @@
+{
+  "detialList": [
+    {
+      "list": "热门分类",
+      "detial": [
+        {
+          "title": "大家店",
+          "prud": [
+            {
+              "imgs": "data/images/class01.png",
+              "txt": "平板电视"
+            },
+            {
+              "imgs": "data/images/class02.png",
+              "txt": "冰箱"
+            },
+            {
+              "imgs": "data/images/class03.png",
+              "txt": "挂壁式空调"
+            }
+          ]
+        },
+        {
+          "title": "数码通讯",
+
+          "prud": [
+            {
+              "imgs": "data/images/class04.png",
+              "txt": "手机"
+            },
+            {
+              "imgs": "data/images/class05.png",
+              "txt": "笔记本电脑"
+            },
+            {
+              "imgs": "data/images/class06.png",
+              "txt": "单反相机"
+            }
+          ]
+        },
+            {
+              "title": "厨卫生活",
+              "prud": [
+                {
+                  "imgs": "data/images/class07.png",
+                  "txt": "取暖器"
+                },
+                {
+                  "imgs": "data/images/class08.png",
+                  "txt": "空气净化器"
+                },
+                {
+                  "imgs": "data/images/class09.png",
+                  "txt": "微波炉"
+                }
+              ]
+            },
+            {
+              "title": "百货日用",
+              "prud": [
+                {
+                  "imgs": "data/images/class10.png",
+                  "txt": "啤酒"
+                },
+                {
+                  "imgs": "data/images/class11.png",
+                  "txt": "品牌纸尿裤"
+                },
+                {
+                  "imgs": "data/images/class12.png",
+                  "txt": "床品件套"
+                }
+              ]
+            },
+            {
+              "title": "热门品牌",
+              "prud": [
+                {
+                  "imgs": "data/images/haix_1.png"
+                },
+                {
+                  "imgs": "data/images/ping_2.png"
+                },
+                {
+                  "imgs": "data/images/laob_3.png"
+                },
+                {
+                  "imgs": "data/images/feilp_5.png"
+                },
+                {
+                  "imgs": "data/images/mide_4.png"
+                },
+                {
+                  "imgs": "data/images/naji_9.png"
+                },
+                {
+                  "imgs": "data/images/mi_8.png"
+                },
+                {
+                  "imgs": "data/images/huaw_7.png"
+                },
+                {
+                  "imgs": "data/images/nike_6.png"
+                }
+              ]
+            }
+      ]
+    },
+
+
+    {
+      "list": "手机数码",
+      "lick":"#1",
+      "detial": [
+        {
+          "title": "手机通讯",
+          "prud": [
+            {
+              "imgs": "data/images/c01.png",
+              "txt": "手机"
+            }
+          ]
+        },
+        {
+          "title": "手机配件",
+          "prud": [
+            {
+              "imgs": "data/images/c02.png",
+              "txt": "移动电源"
+            },
+            {
+              "imgs": "data/images/c03.png",
+              "txt": "存储卡/读卡器"
+            },
+            {
+              "imgs": "data/images/c04.png",
+              "txt": "蓝牙耳机"
+            },
+            {
+              "imgs": "data/images/c05.png",
+              "txt": "有线耳机"
+            },
+            {
+              "imgs": "data/images/c06.png",
+              "txt": "iphone配件"
+            },
+            {
+              "imgs": "data/images/c07.png",
+              "txt": "保护套"
+            },
+            {
+              "imgs": "data/images/c08.png",
+              "txt": "贴膜"
+            },
+            {
+              "imgs": "data/images/c09.png",
+              "txt": "手机电池"
+            },
+            {
+              "imgs": "data/images/c10.png",
+              "txt": "手表"
+            }
+          ]
+        }
+
+      ]
+
+    },
+
+
+    {
+      "list": "电脑办公",
+      "detial": [
+        {
+          "timg": "data/images/c11.png",
+          "title": "电脑整机",
+          "prud": [
+            {
+              "imgs": "data/images/c12.png",
+              "txt": "笔记本"
+            },
+            {
+              "imgs": "data/images/c13.png",
+              "txt": "平板电脑"
+            },
+            {
+              "imgs": "data/images/c14.png",
+              "txt": "游戏本"
+            },
+            {
+              "imgs": "data/images/c15.png",
+              "txt": "设计电脑"
+            },
+            {
+              "imgs": "data/images/c16.png",
+              "txt": "台式电脑"
+            },
+            {
+              "imgs": "data/images/c17.png",
+              "txt": "超极本"
+            },
+            {
+              "imgs": "data/images/c18.png",
+              "txt": "台式主机"
+            },
+            {
+              "imgs": "data/images/c19.png",
+              "txt": "一体机"
+            },
+            {
+              "imgs": "data/images/c20.png",
+              "txt": "笔记本备件"
+            }
+          ]
+        }
+
+
+      ]
+    },
+    {
+      "list": "电视影音"
+    },
+    {
+      "list": "空调冰洗"
+    },
+    {
+      "list": "厨房卫浴"
+    },
+    {
+      "list": "生活电器"
+    },
+    {
+      "list": "食品酒水"
+    },
+    {
+      "list": "美妆个护"
+    },
+    {
+      "list": "母婴玩具"
+    },
+    {
+      "list": "营养保健"
+    },
+    {
+      "list": "服饰鞋帽"
+    },
+    {
+      "list": "运动户外"
+    },
+    {
+      "list": "箱包奢品"
+    },
+    {
+      "list": "钟表首饰"
+    },
+    {
+      "list": "住宅家具"
+    },
+    {
+      "list": "家装建材"
+    },
+    {
+      "list": "家居日用"
+    },
+    {
+      "list": "床品家纺"
+    },
+    {
+      "list": "汽车用品"
+    },
+    {
+      "list": "黄金收藏"
+    },
+    {
+      "list": "智能家居"
+    },
+    {
+      "list": "生活服务"
+    }
+
+  ]
+}

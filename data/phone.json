@@ -1,0 +1,273 @@
+{
+  "produt": [
+    {
+      "img": "data/images/ph13.jpg",
+      "list": [
+        {
+          "imgs":"data/images/ph14.jpg",
+          "dec": "iPhone 11Pro Max 256G 银色",
+          "price": "￥10899",
+          "buy": "立即购买"
+       },
+        {
+          "imgs":"data/images/ph15.jpg",
+          "dec": "iPhone 11Pro 64G 红色",
+          "price": "￥5499",
+          "buy": "立即购买"
+        },
+        {
+          "imgs":"data/images/ph16.jpg",
+          "dec": "iPhone XR 128G 红",
+          "price": "￥4788",
+          "buy": "立即购买"
+        },
+        {
+          "imgs":"data/images/ph17.jpg",
+          "dec": "Apple iPad 9.7英寸32GWiFi版",
+          "price": "￥2338",
+          "buy": "立即购买"
+        },
+        {
+          "imgs":"data/images/ph18.jpg",
+          "dec":"华硕灵耀2代S4300i7 8G内存",
+          "price": "￥5399",
+          "buy": "立即购买"
+        },
+        {
+          "imgs":"data/images/ph19.jpg",
+          "dec": "佳能80D(18-200mm)",
+          "price": "￥8098",
+          "buy": "立即购买"
+        }
+      ]
+    },
+    {
+    "img": "data/images/pht02.jpg",
+    "list": [
+      {
+        "img2": "data/images/ph20.png"
+      },
+      {
+        "img2": "data/images/ph21.png"
+      },
+      {
+        "img2": "data/images/ph22.png"
+      },
+      {
+        "img2": "data/images/ph23.jpg"
+      }
+      ]
+      }
+
+  ],
+  "active": [
+    {
+      "img":"data/images/ph24.jpg",
+      "imgs": [
+        {
+          "img1":"data/images/ph25.jpg"
+        },
+        {
+          "img1":"data/images/ph26.jpg"
+        }
+      ],
+      "actp":[
+        {
+          "imgs":"data/images/ph27.jpg",
+          "dec": "华为nova46+128G 密语红星耀",
+          "price": "￥2399"
+        },
+        {
+          "imgs":"data/images/ph28.jpg",
+          "dec": "vivo X27 8+256G     ",
+          "price": "￥2998"
+        },
+        {
+          "imgs":"data/images/ph29.jpg",
+          "dec": "荣耀20 8+256G幻夜黑",
+          "price": "￥8098"
+        }
+      ]
+    }
+  ],
+  "recom":[
+  {
+    "img":"data/images/ph30.jpg",
+    "imgs": [
+      {
+        "img1":"data/images/ph301.jpg"
+      },
+      {
+        "img1":"data/images/ph302.jpg"
+      },
+      {
+        "img1":"data/images/ph303.jpg"
+      },
+      {
+        "img1":"data/images/ph304.jpg"
+      }
+    ],
+    "recs": [
+
+      {
+        "img":"data/images/ph31.jpg"
+      },
+      {
+        "img":"data/images/ph32.jpg"
+      },
+      {
+        "img":"data/images/ph33.jpg"
+      },
+      {
+        "img":"data/images/ph34.jpg"
+      },
+      {
+        "img":"data/images/ph35.jpg"
+      },
+      {
+        "img":"data/images/ph36.jpg"
+      },
+      {
+        "img":"data/images/ph37.jpg"
+      },
+      {
+        "img":"data/images/ph38.jpg"
+      },
+      {
+        "img":"data/images/ph39.jpg"
+      },
+      {
+        "img":"data/images/ph40.jpg"
+      },
+      {
+        "img":"data/images/ph41.jpg"
+      },
+      {
+        "img":"data/images/ph42.jpg"
+      },
+      {
+        "img":"data/images/ph43.jpg"
+      },
+      {
+        "img":"data/images/ph44.jpg"
+      },
+      {
+        "img":"data/images/ph45.jpg"
+      },
+      {
+        "img":"data/images/ph46.jpg"
+      }
+
+    ]
+  }
+],
+  "classify": [
+    {
+
+      "tile":"智能手机",
+      "list": [
+        {
+          "self": "自营",
+          "imgs":"data/images/ph47.jpg",
+          "dec": "iPhone XS Max 256 G ",
+          "price": "￥8698",
+          "buy": "立即购买"
+        },
+        {
+          "self": "自营",
+          "imgs":"data/images/ph48.jpg",
+          "dec": "vivoS1 4+128G 宠爱粉",
+          "price": "￥1588",
+          "buy": "立即购买"
+
+        },
+        {
+          "self": "自营",
+          "imgs":"data/images/ph49.jpg",
+          "dec": "小米CC9 6+64G 深空",
+          "price": "￥1799",
+          "buy": "立即购买"
+        },
+        {
+          "self": "自营",
+          "imgs":"data/images/ph50.jpg",
+          "dec": "华为P30 Pro 8+128G",
+          "price": "￥4988",
+          "buy": "立即购买"
+        },
+        {
+          "self": "自营",
+          "imgs":"data/images/ph51.jpg",
+          "dec": "荣耀20 8+256G幻夜黑",
+          "price": "￥2999",
+          "buy": "立即购买"
+        },
+        {
+          "self": "自营",
+          "imgs":"data/images/ph50.jpg",
+          "dec": "vivo Z5 6+64G极光幻",
+          "price": "￥1598",
+          "buy": "立即购买"
+        }
+      ]
+   },
+    {
+      "tile": "平板电脑",
+      "list": [
+        {
+          "self": "自营",
+          "imgs": "data/images/ph52.jpg",
+          "dec": "iPhone XS Max 256 G 深空灰",
+          "price": "￥8698",
+          "buy": "立即购买"
+        },
+        {
+          "self": "自营",
+          "imgs": "data/images/ph53.jpg",
+          "dec": "vivoS1 4+128G 宠爱粉红",
+          "price": "￥1588",
+          "buy": "立即购买"
+        },
+        {
+          "self": "自营",
+          "imgs": "data/images/ph54.jpg",
+          "dec": "小米CC9 6+64G 深空灰超长",
+          "price": "￥1799",
+          "buy": "立即购买"
+        },
+        {
+          "self": "自营",
+          "imgs": "data/images/ph55.jpg",
+          "dec": "华为P30 Pro 8+128G黑亮超广角",
+          "price": "￥4988",
+          "buy": "立即购买"
+        },
+        {
+          "self": "自营",
+          "imgs": "data/images/ph52.jpg",
+          "dec": "荣耀20 8+256G幻夜黑色",
+          "price": "￥2999",
+          "buy": "立即购买"
+        },
+        {
+          "self": "自营",
+          "imgs": "data/images/ph56.jpg",
+          "dec": "vivo Z5 6+64G极光幻境",
+          "price": "￥1598",
+          "buy": "立即购买"
+        }
+      ]
+    },
+    {
+      "tile":"摄影摄像"
+    },
+    {
+      "tile":"电脑精选"
+    },
+    {
+      "tile":"智能设备"
+    }
+
+  ]
+
+}

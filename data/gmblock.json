@@ -1,0 +1,47 @@
+{
+  "list": [
+    {
+      "tab": "手机数码",
+      "pro": [
+        {
+          "img": "data/images/ka/ka03.jpg",
+          "self": "自营",
+          "des": "小米（MI)SDJQR01RR智能路径规划 大风压澎湃吸力 米家扫地",
+          "mian": "30天免息",
+          "price": "￥1699"
+        },
+        {
+          "img": "data/images/ka/ka05.jpg",
+          "self": "自营",
+          "des": "小米（MI)SDJQR01RR智能路径规划 大风压澎湃吸力 米家扫地",
+          "mian": "30天免息",
+          "price": "￥1699"
+        },
+        {
+          "img": "data/images/ka/ka06.jpg",
+          "self": "自营",
+          "des": "小米（MI)SDJQR01RR智能路径规划 大风压澎湃吸力 米家扫地",
+          "mian": "30天免息",
+          "price": "￥1699"
+        },
+        {
+          "img": "data/images/ka/ka07.jpg",
+          "self": "自营",
+          "des": "小米（MI)SDJQR01RR智能路径规划 大风压澎湃吸力 米家扫地",
+          "mian": "30天免息",
+          "price": "￥1699"
+        }
+      ]
+
+    },
+    {
+      "tab": "电脑彩电"
+    },
+    {
+      "tab": "大家电"
+    },
+    {
+      "tab": "厨房卫浴"
+    }
+  ]
+}

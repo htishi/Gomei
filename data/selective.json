@@ -1,0 +1,447 @@
+{
+  "protop": [
+    {
+      "top": [
+        {
+          "titme": "9.20-9.23",
+          "txt": "会买会玩"
+        },
+        {
+          "titme": "9.20-9.23",
+          "txt": "会买会玩"
+        },
+        {
+          "titme": "9.20-9.23",
+          "txt": "会买会玩"
+        },
+        {
+          "titme": "9.20-9.23",
+          "txt": "会买会玩"
+        }
+      ],
+      "ban":[
+        {
+          "img1": "data/images/se03.jpg",
+          "text": [
+            {
+              "text1": "55英寸电视1599"
+            },
+            {
+              "text1": "爆品领劵"
+            }
+          ]
+        },
+        {
+          "img2": "data/images/se04.png"
+        },
+        {
+          "bot": [
+            {
+              "imga": "data/images/se05.jpg"
+            },
+            {
+              "imga": "data/images/se06.jpg"
+            },
+            {
+              "imga": "data/images/se07.jpg"
+            }
+          ]
+        }
+        ]
+    }
+  ],
+
+  "navtab": [
+    {
+      "text": "抢先购"
+    },
+    {
+      "text": "人工智能"
+    },
+    {
+      "text": "领劵立省"
+    },
+    {
+      "text": "品牌推荐"
+    },
+    {
+      "text": "智能电视"
+    },
+    {
+      "text": "卧室专区"
+    },
+    {
+      "text": "更多精选"
+    },
+    {
+      "text": "更多会场"
+    }
+  ],
+
+  "prolist": [
+    {
+      "timg": "data/images/se08.jpg",
+      "list": [
+        {
+          "img": "data/images/yx/1.jpg",
+          "des": "长虹55英寸人工智能电视",
+          "sheng":"比pc端省20.00元" ,
+          "price": "￥1799"
+        },
+        {
+          "img": "data/images/yx/2.jpg",
+          "des": "长虹55英寸人工智能电视",
+          "sheng":"比pc端省20.00元" ,
+          "price": "￥1799"
+        },
+        {
+          "img": "data/images/yx/3.jpg",
+          "des": "长虹55英寸人工智能电视",
+          "sheng":"比pc端省20.00元" ,
+          "price": "￥1799"
+        },
+        {
+          "img": "data/images/yx/4.jpg",
+          "des": "长虹55英寸人工智能电视",
+          "sheng":"比pc端省20.00元" ,
+          "price": "￥1799"
+        },
+        {
+          "img": "data/images/yx/5.jpg",
+          "des": "长虹55英寸人工智能电视",
+          "sheng":"比pc端省20.00元" ,
+          "price": "￥1799"
+        },
+        {
+          "img": "data/images/yx/6.jpg",
+          "des": "长虹55英寸人工智能电视",
+          "sheng":"比pc端省20.00元" ,
+          "price": "￥1799"
+        },
+        {
+          "img": "data/images/yx/7.jpg",
+          "des": "长虹55英寸人工智能电视",
+          "sheng":"比pc端省20.00元" ,
+          "price": "￥1799"
+        },
+        {
+          "img": "data/images/yx/8.jpg",
+          "des": "长虹55英寸人工智能电视",
+          "sheng":"比pc端省20.00元" ,
+          "price": "￥1799"
+        },
+        {
+          "img": "data/images/yx/9.jpg",
+          "des": "长虹55英寸人工智能电视",
+          "sheng":"比pc端省20.00元" ,
+          "price": "￥1799"
+        }
+      ]
+    },
+    {
+      "timg": "data/images/yx/t1.jpg",
+      "list": [
+        {
+          "img": "data/images/yx/10.jpg",
+          "des": "长虹55英寸人工智能电视",
+          "sheng":"比pc端省20.00元" ,
+          "price": "￥1799"
+        },
+        {
+          "img": "data/images/yx/3.jpg",
+          "des": "长虹55英寸人工智能电视",
+          "sheng":"比pc端省20.00元" ,
+          "price": "￥1799"
+        },
+        {
+          "img": "data/images/yx/11.jpg",
+          "des": "长虹55英寸人工智能电视",
+          "sheng":"比pc端省20.00元" ,
+          "price": "￥1799"
+        },
+        {
+          "img": "data/images/yx/12.jpg",
+          "des": "长虹55英寸人工智能电视",
+          "sheng":"比pc端省20.00元" ,
+          "price": "￥1799"
+        },
+        {
+          "img": "data/images/yx/13.jpg",
+          "des": "长虹55英寸人工智能电视",
+          "sheng":"比pc端省20.00元" ,
+          "price": "￥1799"
+        },
+        {
+          "img": "data/images/yx/14.jpg",
+          "des": "长虹55英寸人工智能电视",
+          "sheng":"比pc端省20.00元" ,
+          "price": "￥1799"
+        }
+      ]
+    },
+
+    {
+      "timg": "data/images/yx/t2.jpg",
+      "list": [
+        {
+          "img": "data/images/yx/15.jpg",
+          "des": "长虹55英寸人工智能电视",
+          "sheng":"比pc端省20.00元" ,
+          "price": "￥1799"
+        },
+        {
+          "img": "data/images/yx/16.jpg",
+          "des": "长虹55英寸人工智能电视",
+          "sheng":"比pc端省20.00元" ,
+          "price": "￥1799"
+        },
+        {
+          "img": "data/images/yx/17.jpg",
+          "des": "长虹55英寸人工智能电视",
+          "sheng":"比pc端省20.00元" ,
+          "price": "￥1799"
+        },
+        {
+          "img": "data/images/yx/18.jpg",
+          "des": "长虹55英寸人工智能电视",
+          "sheng":"比pc端省20.00元" ,
+          "price": "￥1799"
+        },
+        {
+          "img": "data/images/yx/19.jpg",
+          "des": "长虹55英寸人工智能电视",
+          "sheng":"比pc端省20.00元" ,
+          "price": "￥1799"
+        },
+        {
+          "img": "data/images/yx/20.jpg",
+          "des": "长虹55英寸人工智能电视",
+          "sheng":"比pc端省20.00元" ,
+          "price": "￥1799"
+        }
+      ]
+    },
+
+    {
+      "timg": "data/images/yx/t3.jpg",
+      "imglist": [
+        {
+          "img2": "data/images/yx/21.png"
+
+        },
+        {
+          "img2": "data/images/yx/22.png"
+
+        },
+        {
+          "img2": "data/images/yx/23.png"
+
+        },
+        {
+          "img2": "data/images/yx/24.png"
+
+        },
+        {
+          "img2": "data/images/yx/25.png"
+
+        },
+        {
+          "img2": "data/images/yx/26.png"
+
+        }
+      ]
+    },
+
+    {
+      "timg": "data/images/yx/t4.jpg",
+      "list": [
+        {
+          "img": "data/images/yx/27.jpg",
+          "des": "长虹55英寸人工智能电视",
+          "sheng":"比pc端省20.00元" ,
+          "price": "￥1799"
+        },
+        {
+          "img": "data/images/yx/28.jpg",
+          "des": "长虹55英寸人工智能电视",
+          "sheng":"比pc端省20.00元" ,
+          "price": "￥1799"
+        },
+        {
+          "img": "data/images/yx/29.jpg",
+          "des": "长虹55英寸人工智能电视",
+          "sheng":"比pc端省20.00元" ,
+          "price": "￥1799"
+        },
+        {
+          "img": "data/images/yx/30.jpg",
+          "des": "长虹55英寸人工智能电视",
+          "sheng":"比pc端省20.00元" ,
+          "price": "￥1799"
+        },
+        {
+          "img": "data/images/yx/31.jpg",
+          "des": "长虹55英寸人工智能电视",
+          "sheng":"比pc端省20.00元" ,
+          "price": "￥1799"
+        },
+        {
+          "img": "data/images/yx/32.jpg",
+          "des": "长虹55英寸人工智能电视",
+          "sheng":"比pc端省20.00元" ,
+          "price": "￥1799"
+        }
+      ]
+    },
+
+    {
+      "timg": "data/images/yx/t5.jpg",
+      "list": [
+        {
+          "img": "data/images/yx/33.jpg",
+          "des": "长虹55英寸人工智能电视",
+          "sheng":"比pc端省20.00元" ,
+          "price": "￥1799"
+        },
+        {
+          "img": "data/images/yx/34.jpg",
+          "des": "长虹55英寸人工智能电视",
+          "sheng":"比pc端省20.00元" ,
+          "price": "￥1799"
+        },
+        {
+          "img": "data/images/yx/35.jpg",
+          "des": "长虹55英寸人工智能电视",
+          "sheng":"比pc端省20.00元" ,
+          "price": "￥1799"
+        },
+        {
+          "img": "data/images/yx/36.jpg",
+          "des": "长虹55英寸人工智能电视",
+          "sheng":"比pc端省20.00元" ,
+          "price": "￥1799"
+        },
+        {
+          "img": "data/images/yx/37.jpg",
+          "des": "长虹55英寸人工智能电视",
+          "sheng":"比pc端省20.00元" ,
+          "price": "￥1799"
+        },
+        {
+          "img": "data/images/yx/38.jpg",
+          "des": "长虹55英寸人工智能电视",
+          "sheng":"比pc端省20.00元" ,
+          "price": "￥1799"
+        }
+      ]
+    },
+
+    {
+      "timg": "data/images/yx/t6.jpg",
+      "list": [
+        {
+          "img": "data/images/yx/39.jpg",
+          "des": "长虹55英寸人工智能电视",
+          "sheng":"比pc端省20.00元" ,
+          "price": "￥1799"
+        },
+        {
+          "img": "data/images/yx/40.jpg",
+          "des": "长虹55英寸人工智能电视",
+          "sheng":"比pc端省20.00元" ,
+          "price": "￥1799"
+        },
+       {
+          "img": "data/images/yx/41.jpg",
+          "des": "长虹55英寸人工智能电视",
+          "sheng":"比pc端省20.00元" ,
+          "price": "￥1799"
+        },
+        {
+          "img": "data/images/yx/42.jpg",
+          "des": "长虹55英寸人工智能电视",
+          "sheng":"比pc端省20.00元" ,
+          "price": "￥1799"
+        },
+        {
+          "img": "data/images/yx/43.jpg",
+          "des": "长虹55英寸人工智能电视",
+          "sheng":"比pc端省20.00元" ,
+          "price": "￥1799"
+        },
+        {
+          "img": "data/images/yx/44.jpg",
+          "des": "长虹55英寸人工智能电视",
+          "sheng":"比pc端省20.00元" ,
+          "price": "￥1799"
+        }
+      ]
+    },
+
+    {
+      "list": [
+        {
+          "img": "data/images/yx/45.png",
+          "tit": "精品家电",
+          "de": "下单最高减1000元"
+
+        },
+        {
+          "img": "data/images/yx/46.png",
+          "tit": "精品家电",
+          "de": "下单最高减1000元"
+        },
+        {
+          "img": "data/images/yx/47.png",
+          "tit": "精品家电",
+          "de": "下单最高减1000元"
+        },
+        {
+          "img": "data/images/yx/48.png",
+          "tit": "精品家电",
+          "de": "下单最高减1000元"
+        },
+        {
+          "img": "data/images/yx/49.png",
+          "tit": "精品家电",
+          "de": "下单最高减1000元"
+        },
+        {
+          "img": "data/images/yx/50.png",
+          "tit": "精品家电",
+          "de": "下单最高减1000元"
+        },
+        {
+          "img": "data/images/yx/51.png",
+          "tit": "精品家电",
+          "de": "下单最高减1000元"
+        },
+        {
+          "img": "data/images/yx/52.png",
+          "tit": "精品家电",
+          "de": "下单最高减1000元"
+        },
+        {
+          "img": "data/images/yx/53.png",
+          "tit": "精品家电",
+          "de": "下单最高减1000元"
+        },
+        {
+          "img": "data/images/yx/54.png",
+          "tit": "精品家电",
+          "de": "下单最高减1000元"
+        },
+        {
+          "img": "data/images/yx/55.png",
+          "tit": "精品家电",
+          "de": "下单最高减1000元"
+        },
+        {
+          "img": "data/images/yx/56.png",
+          "tit": "精品家电",
+          "de": "下单最高减1000元"
+        }
+      ]
+    }
+  ]
+}

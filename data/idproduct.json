@@ -1,0 +1,554 @@
+{
+  "tlinei": [
+    {
+      "timg": "data/images/tline001.png",
+      "timg1":"data/images/cj01.gif",
+      "timg2":"data/images/cj02.gif",
+      "timg3":"data/images/cj03.jpg",
+      "timg4":"data/images/cj04.jpg",
+      "timg5":"data/images/tline02.jpg"
+    }
+  ],
+  "seck": [
+    {
+      "img":"data/images/sck01.jpg",
+      "price": "￥839",
+      "oldp": "￥840"
+    },
+    {
+      "img":"data/images/sck02.jpg",
+      "price": "￥19",
+      "oldp": "￥22"
+    },
+    {
+      "img":"data/images/sck03.jpg",
+      "price": "￥19.9",
+      "oldp": "￥20.9"
+    }
+
+  ],
+
+  "topline": [
+
+    {
+      "title":"新品抢先",
+      "describe": "Apple Wathch s5 低至3899元",
+      "img": "data/images/sck04.jpg"
+    },
+    {
+      "title":"值得买",
+      "describe": "大家都在买",
+      "img": "data/images/sck05.jpg"
+    },
+    {
+      "title":"品牌特卖",
+      "describe": "戴尔 灵越轻薄本3899元抢",
+      "img": "data/images/sck06.png"
+    }
+  ],
+
+  "selet": [
+    {
+      "title": "有好货",
+      "img1": "data/images/select01.jpg",
+      "img2": "data/images/like45.jpg",
+      "img3": "data/images/like35.jpg",
+      "selbot": [
+        {
+          "img4": "data/images/like01.jpg",
+          "price": "￥3877"
+        },
+        {
+          "img4": "data/images/like10.jpg",
+          "price": "￥5499"
+        },
+        {
+          "img4": "data/images/like27.jpg",
+          "price": "￥2699"
+        }
+      ]
+    }
+],
+      "active": [
+        {
+          "timg":"data/images/act.png",
+          "acts": [
+            {
+              "title":"电视提前购",
+              "describe":"爆品领劵减100元",
+              "imgs":"data/images/act01.jpg"
+            },
+            {
+              "title":"手机狂欢购",
+              "describe":"易卡分期享30天免息",
+              "imgs":"data/images/act02.jpg"
+            }
+          ]
+
+        },
+        {
+          "timg":"data/images/service.png",
+          "acts": [
+            {
+              "title": "国美舒适家",
+              "describe": "呼吸优质空气",
+              "imgs": "data/images/act05.jpg"
+            },
+            {
+              "title": "安装清洗",
+              "describe": "国美为您提供上门服务",
+              "imgs": "data/images/act07.jpg"
+            }
+
+          ]
+    }
+  ],
+
+
+
+  "list": [
+
+
+    {
+      "id":0,
+      "logo": "data/images/logo.png",
+      "title": "国美自营",
+      "images": "data/images/like53.jpg",
+      "support": "自营",
+      "describe": "华为（HUAWEI)M5青春版 10.1英寸智能语音...",
+      "price": 2199.00,
+      "price2": 1999.00,
+      "resemble": "看相似",
+      "topimg": ["data/images/hw/hw06.jpg","data/images/hw/hw02.jpg","data/images/hw/hw03.jpg",
+        "data/images/hw/hw04.jpg","data/images/hw/hw05.jpg"],
+      "des": "华为（HUAWEI)M5青春版 10.1英寸智能语音平板（4G内存/128G存储...",
+      "expl": "【华为国庆狂欢购】M5青春版,AI智趣娱乐影音，声临其境，一呼百应，精致于外，强悍于内，速来选购",
+      "sel": "4+128G通话版 香槟金1个",
+       "color":[
+		   {
+		     "ch":"4+128G通话版 香槟金"
+		   },
+         {
+           "ch":"4+128G WIFI 香槟金"
+         }
+
+       ],
+      "add": "今日18.00.00前完成下单，预计明日（10月9日）送达",
+      "sh": "北京国美西坝河店",
+      "img":"data/images/hw/hw07.jpg",
+      "nam": "董得福",
+      "se": "已服务189人",
+      "count": 1,
+      "selected": true,
+      "like": [
+        {
+          "list": [
+            {
+              "img": "data/images/hw/hw12.jpg",
+              "pri": "￥899",
+              "des": "华为（HUAWEI）华为揽阅M2青春..."
+            },
+            {
+              "img": "data/images/hw/hw13.jpg",
+              "pri": "￥1699",
+              "des": "华为（HUAWEI）华为揽阅M2青春..."
+            },
+            {
+              "img": "data/images/hw/hw14.jpg",
+              "pri": "￥1099",
+              "des": "华为（HUAWEI）华为揽阅M2青春..."
+            },
+            {
+              "img": "data/images/hw/hw15.jpg",
+              "pri": "￥3388",
+              "des": "华为（HUAWEI）华为揽阅M2青春..."
+            },
+            {
+              "img": "data/images/hw/hw16.jpg",
+              "pri": "￥1488",
+              "des": "华为（HUAWEI）华为揽阅M2青春..."
+            },
+            {
+              "img": "data/images/hw/hw17.jpg",
+              "pri": "￥988",
+              "des": "华为（HUAWEI）华为揽阅M2青春..."
+            }
+          ]
+        },
+        {
+          "list": [
+            {
+              "img": "data/images/hw/hw18.jpg",
+              "pri": "￥899",
+              "des": "华为（HUAWEI）华为揽阅M2青春..."
+            },
+            {
+              "img": "data/images/hw/hw19.jpg",
+              "pri": "￥1699",
+              "des": "华为（HUAWEI）华为揽阅M2青春..."
+            },
+            {
+              "img": "data/images/hw/hw20.jpg",
+              "pri": "￥1099",
+              "des": "华为（HUAWEI）华为揽阅M2青春..."
+            },
+            {
+              "img": "data/images/hw/hw21.jpg",
+              "pri": "￥3388",
+              "des": "华为（HUAWEI）华为揽阅M2青春..."
+            },
+            {
+              "img": "data/images/hw/hw22.jpg",
+              "pri": "￥1488",
+              "des": "华为（HUAWEI）华为揽阅M2青春..."
+            },
+            {
+              "img": "data/images/hw/hw23.jpg",
+              "pri": "￥988",
+              "des": "华为（HUAWEI）华为揽阅M2青春..."
+            }
+          ]
+        }
+      ],
+      "botimg": ["data/images/hw/hw24.jpg","data/images/hw/hw25.jpg",
+        "data/images/hw/hw27.jpg","data/images/hw/hw26.jpg",
+        "data/images/hw/hw28.jpg"
+      ],
+	  "baox":[
+		  {
+			 "txt":"延长保",
+			 "year":[
+				 {
+					 "text":"延长保修1年",
+					 "pri":"￥171.0"
+				 },
+				 {
+				 "text":"延长保修1年",
+				 "pri":"￥258.0"
+				 },
+				 {
+				 	"text":"延长保修2年",
+				 	"pri":"￥471.0"
+				 }
+			 ]
+		  },
+		  {
+		  			 "txt":"意外保",
+		  			 "year":[
+		  				 {
+		  					 "text":"意外保1年",
+		  					 "pri":"￥171.0"
+		  				 },
+		  				 {
+		  				 "text":"意外保2年",
+		  				 "pri":"￥258.0"
+		  				 }
+
+		  			 ]
+		  }
+	  ]
+
+
+    },
+
+    {
+      "id":1,
+      "images": "data/images/like54.jpg",
+      "support": "自营",
+      "describe": "小天才XTC z5q儿童电话手表360度防水...",
+      "price": 1498.00,
+      "resemble": "看相似",
+      "topimg": ["data/images/wa/wa01.jpg","data/images/wa/wa02.jpg","data/images/wa/wa03.jpg",
+        "data/images/wa/wa04.jpg","data/images/wa/wa05.jpg"],
+      "des": "小天才XTC z5q儿童电话手表360度防水GPS定位智能手表 学生儿童...",
+      "sel": "大黄蜂 1个",
+      "add": "今日18.00.00前完成下单，预计明日（10月9日）送达",
+      "sh": "北京国美西坝河店",
+      "img":"data/images/hw/hw07.jpg",
+      "nam": "董得福",
+      "se": "已服务189人",
+      "count": 1,
+      "selected": true,
+      "like": [
+        {
+          "list": [
+            {
+              "img": "data/images/hw/hw12.jpg",
+              "pri": "￥899",
+              "des": "华为（HUAWEI）华为揽阅M2青春..."
+            },
+            {
+              "img": "data/images/hw/hw13.jpg",
+              "pri": "￥1699",
+              "des": "华为（HUAWEI）华为揽阅M2青春..."
+            },
+            {
+              "img": "data/images/hw/hw14.jpg",
+              "pri": "￥1099",
+              "des": "华为（HUAWEI）华为揽阅M2青春..."
+            },
+            {
+              "img": "data/images/hw/hw15.jpg",
+              "pri": "￥3388",
+              "des": "华为（HUAWEI）华为揽阅M2青春..."
+            },
+            {
+              "img": "data/images/hw/hw16.jpg",
+              "pri": "￥1488",
+              "des": "华为（HUAWEI）华为揽阅M2青春..."
+            },
+            {
+              "img": "data/images/hw/hw17.jpg",
+              "pri": "￥988",
+              "des": "华为（HUAWEI）华为揽阅M2青春..."
+            }
+          ]
+        },
+        {
+          "list": [
+            {
+              "img": "data/images/hw/hw18.jpg",
+              "pri": "￥899",
+              "des": "华为（HUAWEI）华为揽阅M2青春..."
+            },
+            {
+              "img": "data/images/hw/hw19.jpg",
+              "pri": "￥1699",
+              "des": "华为（HUAWEI）华为揽阅M2青春..."
+            },
+            {
+              "img": "data/images/hw/hw20.jpg",
+              "pri": "￥1099",
+              "des": "华为（HUAWEI）华为揽阅M2青春..."
+            },
+            {
+              "img": "data/images/hw/hw21.jpg",
+              "pri": "￥3388",
+              "des": "华为（HUAWEI）华为揽阅M2青春..."
+            },
+            {
+              "img": "data/images/hw/hw22.jpg",
+              "pri": "￥1488",
+              "des": "华为（HUAWEI）华为揽阅M2青春..."
+            },
+            {
+              "img": "data/images/hw/hw23.jpg",
+              "pri": "￥988",
+              "des": "华为（HUAWEI）华为揽阅M2青春..."
+            }
+          ]
+        }
+      ],
+      "botimg": ["data/images/hw/hw24.jpg","data/images/hw/hw25.jpg",
+        "data/images/hw/hw27.jpg","data/images/hw/hw26.jpg",
+        "data/images/hw/hw28.jpg"
+      ]
+
+
+    },
+
+    {
+      "id":2,
+      "images": "data/images/like02.jpg",
+      "support": "自营",
+      "describe": "Apple iPad Pro 11 英寸平板电脑2018款...",
+      "price": 12176.00,
+      "resemble": "看相似"
+    },
+
+    {
+      "id":3,
+      "images": "data/images/like05.jpg",
+      "support": "自营",
+      "describe": "苏泊尔(SUPOP) c21-SDHCB9E32S电磁...",
+      "price": 149.00,
+      "resemble": "看相似"
+    },
+    {
+      "images": "data/images/like03.jpg",
+      "support": "自营",
+      "describe": "Apple iPad Air 10.5英寸平板电脑2018款...",
+      "price": 3896.00,
+      "resemble": "看相似"
+    },
+    {
+
+      "images": "data/images/like07.jpg",
+      "support": "自营",
+      "describe": "美的(Midea)电磁炉触控式 大线盘 微晶面板...",
+      "give":"赠",
+      "price": 167.00,
+      "resemble": "看相似"
+    },
+    {
+      "images": "data/images/like08.jpg",
+      "shopi": "data/images/like081.jpg",
+      "shopt": "茵卫妮生活电器专营店",
+      "shop": "查看店铺"
+    },
+    {
+      "images": "data/images/like09.jpg",
+      "support": "自营",
+      "describe": "小度人工智能音箱1S全新灯带设计 智能语音...",
+      "price": 129.00,
+      "resemble": "看相似"
+    },
+    {
+      "images": "data/images/like10.jpg",
+      "support": "自营",
+      "describe": "海尔(Haier)BC/BD-100HEP 100升彩晶...",
+      "roll": "卷100减30",
+      "give":"赠",
+      "energy": "节能补贴",
+      "price": 1699.00,
+      "resemble": "看相似"
+    },
+    {
+      "images": "data/images/like11.png",
+      "zhi":"一片婴儿湿巾的竞争力"
+
+    },
+    {
+      "images": "data/images/like12.jpg",
+      "support": "自营",
+      "describe": "摩羯手            (MOCEGAME)WM1009...",
+      "price": 16.90,
+      "resemble": "看相似"
+    },
+    {
+      "images": "data/images/like14.jpg",
+      "support": "自营",
+      "describe": "Apple iPad mimi 5 2019年新款平板电脑...",
+      "price": 13877.00,
+      "resemble": "看相似"
+    },
+    {
+      "images": "data/images/like16.jpg",
+      "support": "自营",
+      "describe": "九阳(Joyoung)电磁炉JYC-21ES55C 8档...",
+      "give":"赠",
+      "price": 139.00,
+      "resemble": "看相似"
+    },
+    {
+      "images": "data/images/like17.jpg",
+      "support": "自营",
+      "describe": "美的(Midea)FS40-15f1黑三档风速 创新...",
+      "give":"赠",
+      "energy": "节能补贴",
+      "price": 298.00,
+      "resemble": "看相似"
+    },
+    {
+      "images": "data/images/like18.jpg",
+      "support": "自营",
+      "describe": "苏泊尔(SUPOR)电磁炉轻薄机身 大屏触摸电磁...",
+      "price": 249.00,
+      "resemble": "看相似"
+    },
+    {
+      "images": "data/images/like19.jpg",
+      "support": "自营",
+      "describe": "方太(FOTLE)JZT-TH18燃气灶双眼灶 天...",
+      "give":"赠",
+      "price": 2499.00,
+      "resemble": "看相似"
+    },
+    {
+      "images": "data/images/like17.jpg",
+      "support": "自营",
+      "describe": "美的(Midea)FS40-15f1黑三档风速 创新...",
+      "give":"赠",
+      "energy": "节能补贴",
+      "price": 298.00,
+      "resemble": "看相似"
+    },
+    {
+      "images": "data/images/like20.jpg",
+      "support": "自营",
+      "describe": "Apple iPad Pro 12.9英寸平板电脑2018款...",
+      "price": 13734.00,
+      "resemble": "看相似"
+    },
+    {
+      "images": "data/images/like21.jpg",
+      "support": "自营",
+      "describe": "伊莱斯1p定频冷暖 壁挂式空调...",
+      "roll": "卷1000减30",
+      "give":"赠",
+      "price": 1399.00,
+      "resemble": "看相似"
+    },
+    {
+      "images": "data/images/like13.jpg",
+      "describe": "美的(Midea)电磁炉C21-Spimple101家用...",
+      "price": 159.00,
+      "resemble": "看相似"
+    },
+    {
+      "images": "data/images/like22.jpg",
+      "support": "自营",
+      "describe": "海尔(Haier)小1匹冷暖定频一键...",
+      "roll": "卷1000减30",
+      "give":"赠",
+      "price": 1699.00,
+      "resemble": "看相似"
+    },
+    {
+      "images": "data/images/like23.jpg",
+      "support": "自营",
+      "describe": "美的(Midea)正1.5匹变频智能壁挂式空调...",
+      "give":"赠",
+      "price": 2299.00,
+      "resemble": "看相似"
+    },
+    {
+      "images": "data/images/like24.jpg",
+      "support": "自营",
+      "describe": "的立LGJQJ-051-2kg洗衣液净白透亮",
+      "price": 32.00,
+      "resemble": "看相似"
+    },
+    {
+      "images": "data/images/like25.jpg",
+      "support": "自营",
+      "describe": "海尔(Haier)小1匹冷暖定频一键...",
+      "roll": "卷1000减30",
+      "give":"赠",
+      "price": 1699.00,
+      "resemble": "看相似"
+    },
+    {
+      "images": "data/images/like26.jpg",
+      "support": "自营",
+      "describe": "海信(Hisense) HZ55A52 55英寸智能...",
+      "roll": "卷799减30",
+      "give":"赠",
+      "energy": "节能补贴",
+      "price": 2188.00,
+      "resemble": "看相似"
+    },
+    {
+      "images": "data/images/like28.jpg",
+      "shopt": "国美酒水自营旗舰店",
+      "shop": "查看店铺"
+    },
+    {
+      "images": "data/images/like31.jpg",
+      "support": "自营",
+      "describe": "长虹       (CHANGHONG)32D3F...",
+      "give":"赠",
+      "price": 778.00,
+      "resemble": "看相似"
+    },
+    {
+      "images": "data/images/like41.jpg",
+      "support": "自营",
+      "describe": "荣耀(honor)荣耀20 8GB+256GB 全网通...",
+      "roll": "卷500减10",
+      "price": 2188.00,
+      "resemble": "看相似"
+    }
+  ]
+
+}
